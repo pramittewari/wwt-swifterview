@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Swifterviewing
+
+  Created by Pramit Tewari on 02/03/22.
+  Copyright © 2022 World Wide Technology Application Services. All rights reserved.
+*/
+
+"networkCheck" = "Please check your internet connection";
+"alertActionOkay" = "Okay";
+"invalidAlbumId" = "No photos found for the selected album!";
